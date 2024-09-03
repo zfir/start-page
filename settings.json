@@ -115,23 +115,23 @@
 				"links": [
 					{
 						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"url": "https://zfir.dev",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "Personal Blog",
+						"url": "https://blog.zfir.dev/",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "GPT",
+						"name": "Link Shortener",
 						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"icon": "mdi:web"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Personal Infrastrcuture",
+						"url": "https://infra.zfir.dev",
+						"icon": "mdi:web"
 					}
 				]
 			},
@@ -144,6 +144,26 @@
 						"name": "GitHub",
 						"url": "https://github.com",
 						"icon": "mdi:github"
+					},
+					{
+						"name": "Heroku",
+						"url": "https://heroku.com",
+						"icon": "mdi:heroku"
+					},
+					{
+						"name": "AWS",
+						"url": "https://aws.amazon.com/",
+						"icon": "mdi:aws"
+					},
+					{
+						"name": "Render",
+						"url": "https://render.com",
+						"icon": "mdi:render"
+					},
+					{
+						"name": "Supabase",
+						"url": "https://supabase.com",
+						"icon": "mdi:supabase"
 					}
 				]
 			},
@@ -153,14 +173,19 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
+						"name": "Whatsapp Web",
+						"url": "https://web.whatsapp.com",
+						"icon": "mdi:whatsapp"
+					},
+					{
+						"name": "X",
+						"url": "https://x.com",
 						"icon": "mdi:twitter"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "LinkedIn",
+						"url": "https://linkedin.com/",
+						"icon": "mdi:linkedin"
 					},
 					{
 						"name": "Reddit",
@@ -168,9 +193,9 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "Mastodon",
+						"url": "https://mastodon.social/",
+						"icon": "ri:mastodon-fill"
 					}
 				]
 			},
