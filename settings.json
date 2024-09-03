@@ -124,12 +124,17 @@
 						"icon": "mdi:web"
 					},
 					{
+						"name": "Medium Personal Blog",
+						"url": "https://zfir.medium.com/",
+						"icon": "mdi:medium"
+					},
+					{
 						"name": "Link Shortener",
 						"url": "https://chat.openai.com/",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Personal Infrastrcuture",
+						"name": "Personal Infra",
 						"url": "https://infra.zfir.dev",
 						"icon": "mdi:web"
 					}
@@ -148,7 +153,7 @@
 					{
 						"name": "Heroku",
 						"url": "https://heroku.com",
-						"icon": "mdi:heroku"
+						"icon": "mdi:web"
 					},
 					{
 						"name": "AWS",
@@ -158,12 +163,12 @@
 					{
 						"name": "Render",
 						"url": "https://render.com",
-						"icon": "mdi:render"
+						"icon": "mdi:web"
 					},
 					{
 						"name": "Supabase",
 						"url": "https://supabase.com",
-						"icon": "mdi:supabase"
+						"icon": "mdi:web"
 					}
 				]
 			},
@@ -186,6 +191,11 @@
 						"name": "LinkedIn",
 						"url": "https://linkedin.com/",
 						"icon": "mdi:linkedin"
+					},
+					{
+						"name": "Medium",
+						"url": "https://medium.com/",
+						"icon": "mdi:medium"
 					},
 					{
 						"name": "Reddit",
