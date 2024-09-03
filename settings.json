@@ -211,6 +211,11 @@
 						"name": "Mastodon",
 						"url": "https://mastodon.social/",
 						"icon": "ri:mastodon-fill"
+					},
+					{
+						"name": "Google News",
+						"url": "https://news.google.com/",
+						"icon": "mdi:newspaper"
 					}
 				]
 			},
@@ -249,6 +254,11 @@
 					{
 						"name": "Gmail Calendar",
 						"url": "https://calendar.google.com/",
+						"icon": "mdi:calendar-badge"
+					},
+					{
+						"name": "Microsoft Outlook Calendar",
+						"url": "https://outlook.live.com/calendar/",
 						"icon": "mdi:calendar-badge"
 					},
 					{
