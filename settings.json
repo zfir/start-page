@@ -166,6 +166,11 @@
 						"icon": "mdi:aws"
 					},
 					{
+						"name": "Atlassian",
+						"url": "https://team.atlassian.com",
+						"icon": "mdi:web"
+					},
+					{
 						"name": "Render",
 						"url": "https://render.com",
 						"icon": "mdi:web"
@@ -257,7 +262,7 @@
 						"icon": "mdi:calendar-badge"
 					},
 					{
-						"name": "Microsoft Outlook Calendar",
+						"name": "Microsoft Calendar",
 						"url": "https://outlook.live.com/calendar/",
 						"icon": "mdi:calendar-badge"
 					},
