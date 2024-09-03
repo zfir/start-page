@@ -151,6 +151,11 @@
 						"icon": "mdi:github"
 					},
 					{
+						"name": "GitHub Reviews",
+						"url": "https://github.com/pulls/review-requested",
+						"icon": "mdi:file-find"
+					},
+					{
 						"name": "Heroku",
 						"url": "https://heroku.com",
 						"icon": "mdi:web"
@@ -210,83 +215,55 @@
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "Mail",
 				"color": "red",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "Gmail",
+						"url": "https://mail.google.com/",
+						"icon": "mdi:gmail"
 					},
 					{
-						"name": "IGN",
-						"url": "https://ign.com",
-						"icon": "mdi:currency-sign"
+						"name": "Microsoft Outlook",
+						"url": "https://outlook.live.com/mail/0/",
+						"icon": "mdi:microsoft-outlook"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
+						"name": "Yandex Mail",
+						"url": "https://mail.yandex.com/",
+						"icon": "mdi:mail"
 					},
 					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
-					}
+						"name": "Apple Mail",
+						"url": "https://www.icloud.com/mail/",
+						"icon": "mdi:apple"
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Productivity",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Gmail Calendar",
+						"url": "https://calendar.google.com/",
+						"icon": "mdi:calendar-badge"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Notion",
+						"url": "https://www.notion.so/",
+						"icon": "mdi:note"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "Microsoft OneDrive",
+						"url": "https://onedrive.live.com/",
+						"icon": "mdi:microsoft-onedrive"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
-					}
-				]
-			},
-			{
-				"title": "Tech",
-				"color": "yellow",
-				"align": "left",
-				"links": [
-					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
-					},
-					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
-					},
-					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
-					},
-					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "ChatGPT",
+						"url": "https://chatgpt.com/",
+						"icon": "mdi:chat-question"
 					}
 				]
 			}
